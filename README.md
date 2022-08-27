@@ -24,7 +24,7 @@ Yan-Ying Liao - [Personal Portfolio](https://noworneverev.github.io/) - n9102125
 ## Donate
 If you think my work is helpful or want to say thanks, you can consider buying me a coffee. It's totally optional.
 
-🎁 Paypal me
+🎁 [Paypal me](https://www.paypal.com/paypalme/yanyingliao)
 
 <img src="./static/paypal.png" alt="paypal" width='25%' />
 
