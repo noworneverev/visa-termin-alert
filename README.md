@@ -3,6 +3,8 @@
 ## About The Project
 The project is inspired by a terminated chatbot service which is aimed at providing instant German visa appointments status. As you may know, it is extremely difficult to book a appointment to apply German visa in Taiwan in busy season, one may have to refresh the termin page ALL DAY LONG FOR SEVERAL DAYS to reserve a seat. Since the German Institue don't tell us when vacant appointments will be released exactly, I built this chatbot to notify those who want to arrange appointments.
 
+![Preview](/static/termin.png)
+
 ## Line Invitaion Link
 [https://reurl.cc/MNZlrk](https://reurl.cc/MNZlrk) 
 Password: termin
